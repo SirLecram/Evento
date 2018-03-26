@@ -1,0 +1,11 @@
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\bin\Debug\netcoreapp2.0\Evento.Infrastructure.deps.json
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\bin\Debug\netcoreapp2.0\Evento.Infrastructure.dll
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\bin\Debug\netcoreapp2.0\Evento.Infrastructure.pdb
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\bin\Debug\netcoreapp2.0\Evento.Core.dll
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\bin\Debug\netcoreapp2.0\Evento.Core.pdb
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.AssemblyInfo.cs
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.dll
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Infrastructure\Evento.Infrastructure\obj\Debug\netcoreapp2.0\Evento.Infrastructure.pdb

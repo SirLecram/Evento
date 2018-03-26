@@ -1,0 +1,9 @@
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\bin\Debug\netcoreapp2.0\Evento.Core.deps.json
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\bin\Debug\netcoreapp2.0\Evento.Core.dll
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\bin\Debug\netcoreapp2.0\Evento.Core.pdb
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.csprojResolveAssemblyReference.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.csproj.CoreCompileInputs.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.AssemblyInfoInputs.cache
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.AssemblyInfo.cs
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.dll
+C:\Users\MarcelPC\Desktop\Na studia\Informatyka\C#\dotNETKurs\Evento\Evento.Core\obj\Debug\netcoreapp2.0\Evento.Core.pdb
